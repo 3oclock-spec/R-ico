@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rico
-- That's all.
+well.
 
 <!---
 R-ico/R-ico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
